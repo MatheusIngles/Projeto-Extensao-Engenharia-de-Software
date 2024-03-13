@@ -1,8 +1,8 @@
 # Projeto de Extensao - Engenharia de Software - 2024/1
 
-### Professor: Cássio Peçanha Capucho
+**Professor:** Cássio Peçanha Capucho
 
-### Integrantes:
+**Integrantes:**
  * Guilherme Ferreira de Góes
  * Lucas Bonato Soares
  * Maria Luíza Franzotti

@@ -5,7 +5,7 @@
    * [Maria Luiza Franzotti Loureiro de Melo](https://github.com/MariaLuizaFranzotti), 202305413.
    * [Guilherme Ferreira de Góes](https://github.com/GuilhermeGoes1), 202305386.
    * [Lucas Bonato Soares](https://github.com/LucasBS4546), 202307653.
-   * [Rafael Ferreita Bassul](https://github.com/RafaelBassul), .
+   * [Rafael Ferreita Bassul](https://github.com/RafaelBassul), 202305395.
 
 ## Professores:
    * [Cássio Capucho Peçanha](https://github.com/cassiocapucho).

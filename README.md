@@ -1,11 +1,13 @@
 # Projeto de Extensao - Engenharia de Software - 2024/1
 
-**Professor:**
- * Cássio Peçanha Capucho
+## Nome e matricula, respectivamente:
+   * [Matheus Endlich Silveira](https://github.com/MatheusIngles), 202305392.
+   * [Maria Luiza Franzotti Loureiro de Melo](https://github.com/MariaLuizaFranzotti), 202305413.
+   * [Guilherme Ferreira de Góes](https://github.com/GuilhermeGoes1), 202305386.
+   * [Lucas Bonato Soares](https://github.com/LucasBS4546), 202307653.
+   * [Rafael Ferreita Bassul](https://github.com/RafaelBassul), .
 
-**Integrantes:**
- * Guilherme Ferreira de Góes
- * Lucas Bonato Soares
- * Maria Luíza Franzotti
- * Matheus Endlich Silveira
- * Rafael Ferreira Bassul
+## Professores:
+   * [Cássio Capucho Peçanha](cassiocpecanha@gmail.com).
+
+## Sobre o Projeto:
